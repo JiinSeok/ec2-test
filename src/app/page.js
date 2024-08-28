@@ -58,7 +58,7 @@ export default async function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Docs <span>-&gt;</span>
+              문서 <span>-&gt;</span>
             </h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
